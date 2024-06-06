@@ -1,2 +1,2 @@
 # Bookbot
-Bookbot command line app
+BookBot is my first project!
